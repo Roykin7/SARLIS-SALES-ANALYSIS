@@ -30,12 +30,20 @@ The following skills were demonstrated, Data cleaning, Quick measures, Data Visu
 
 ### **Data Cleaning.**
 
+| Unclean Data |
+|---|
+| ![](Dirty_data.png) |
 The dataset was cleaned using Microsoft Excell 356 and when came in as CSV format and had to be changed into Excel Workbook format so that it can be saved and worked on properly. The dataset contains 185951 rows and 11 columns.
 
+|  Dirty Address  |  Cleaned Address  |
+|---|---|
+| ![](Dirty_address.png) | ![](Cleaned_Address.png) |
 
+I had to split the order date collum so that I obtain separate columns for Order Date and Order Time using this formula (=INT(F2)) to obtain date into collum G2 as well as (=F2-G2) to obtain the time in collum H2 and then I applied Auto fill for the rest of the remaining 185951 rows. 
 
-The had to split the order date collum so that I obtain separate columns for Order Date and Order Time using this formula (=INT(F2)) to obtain date into collum G2 as well as (=F2-G2) to obtain the time in collum H2 and then I applied Auto fill for the rest of the remaining 185951 rows. 
-
+| Clean Date |
+|---|
+| ![](Clean_date.png) |
 For accurate analysis, the decimal points weren’t changed to whole numbers.
 
 ### **Data Visualization**
@@ -45,9 +53,7 @@ Upon cleaning the data was loaded into Power BI and 2 pages were created
 ### **Home Page**
 
 ![](Home_page.png)
-
 The home page is summarizing all the information needed to be know about the SARLIS STORES, where they operate and what do they operate it.
-
 
 ### **Sales Analysis**
 
