@@ -6,7 +6,7 @@
 ## **Introduction**
 
 
-In this project, we dive into a large sales dataset called “SARLIS” to extract valuable insights to answer crucial questions and help make data-driven decisions.
+In this project, we dive into a large sales dataset called “**SARLIS**” to extract valuable insights to answer crucial questions and help make data-driven decisions.
 
 We will explore and analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making and create visualizations to present findings effectively. 
 
